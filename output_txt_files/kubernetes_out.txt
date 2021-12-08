@@ -1,0 +1,8 @@
+voclabs:~/environment/DevOps_Microservices/project-ml-microservice-kubernetes (master) $ ./run_kubernetes.sh 
+NAME   READY   STATUS    RESTARTS        AGE
+api    1/1     Running   1 (7d16h ago)   7d17h
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+
+Handling connection for 8000
+Handling connection for 8000<paste log output from Kubernetes-mediated prediction, here>
